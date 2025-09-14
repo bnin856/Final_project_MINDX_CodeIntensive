@@ -1,3 +1,6 @@
+
+# Final_project_MINDX_CodeIntensive
+
 # Todo App
 
 A React-based Todo application with tab navigation and task management features.
@@ -43,10 +46,3 @@ npm start
 3. **Viewing Tasks**: Use the tabs to filter between all, active, and completed tasks
 4. **Deleting Tasks**: In the "Completed" tab, you can delete individual tasks or all completed tasks at once
 
-## Requirements Met
-
-✅ **Design Interface (3đ)**: Clean, modern design with tab navigation
-✅ **Tab Functionality**: All, Active, and Completed tabs with proper filtering
-✅ **Add Task Function**: Available only in All and Active tabs
-✅ **Delete Task Function**: Individual and bulk delete in Completed tab only
-✅ **Task Toggle**: Checkbox to toggle between active/completed with visual feedback
