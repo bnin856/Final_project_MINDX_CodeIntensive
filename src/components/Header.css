@@ -1,0 +1,12 @@
+.todo-header {
+  margin-bottom: 30px;
+}
+
+.todo-title {
+  text-align: center;
+  color: #000;
+  font-size: 2.5rem;
+  font-weight: 400;
+  font-family: monospace;
+  margin: 0;
+}
